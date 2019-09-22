@@ -1,6 +1,6 @@
-# fun_app
+#Trivia-The-Fun-App
 
-A new Flutter project.
+This App makes you know some interesting facts with its awesome UI. You can know some interesting trivia and math facts related to the number you have entered. And also you can know the exciting facts about dates and year of your choice.
 
 ## Getting Started
 
